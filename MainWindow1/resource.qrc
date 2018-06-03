@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/led.png</file>
+        <file>img/conect.png</file>
+        <file>img/desconectar.jpg</file>
+        <file>img/luzroja.png</file>
+        <file>img/luzamarilla.png</file>
+        <file>img/luzverde.png</file>
+        <file>img/grafico.png</file>
+        <file>archivo.csv</file>
+    </qresource>
+</RCC>
